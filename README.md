@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Docvx
+- 👀 I’m interested in python
+- 🌱 I’m currently learning Python,js, htlm and lua
+- 📫 How to reach me email: dorusvanderbiezen@gmail.com
+- Discord: Docvx™#9999
